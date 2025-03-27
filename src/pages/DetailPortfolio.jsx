@@ -21,6 +21,9 @@ function DetailPortfolio() {
           <p className="skill">
             <b>Skills : {data.skill}</b>
           </p>
+          <p className="Link">
+            <b>Link Akses : {data.link}</b>
+          </p>
         </div>
       </section>
 
