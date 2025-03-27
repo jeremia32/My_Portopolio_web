@@ -8,7 +8,7 @@ import profile from "../assets/profile.png";
 
 function Header() {
   const [typedText, setTypedText] = useState("");
-  const fullText = "Programmer - iOS Developer - System Analyst";
+  const fullText = "Programmer - iOS Developer - Data Analyst";
 
   useEffect(() => {
     let index = 0;
